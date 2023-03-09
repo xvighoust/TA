@@ -14,6 +14,8 @@ using DevExpress.XtraGauges.Win.Gauges.Digital;
 using DevExpress.XtraGauges.Win.Base;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
+//Tambah komen
+
 namespace latihan_layout
 {
     
